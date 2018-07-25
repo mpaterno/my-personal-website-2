@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Futura BT';
+  src: url("../fonts/Futura\ Heavy\ font.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Futura BT';
+  src: url("../fonts/Futura\ Book\ font.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+body {
+  font-family:  'Futura BT' !important;
+}
+.title-name {
+  display: block;
+  position: absolute;
+  font-size: 300%;
+  font-weight: bold;
+
+}
+
+.title-matthew {
+  left: 5%;
+}
+.title-image {
+  max-width: 80%;
+}
